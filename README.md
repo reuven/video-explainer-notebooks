@@ -8,3 +8,8 @@ I thus started a series on YouTube, the "Python standard library video explainer
 
 I'm doing the video explainer just like my courses at companies around the world, live-coding into the Jupyter notebook.  I'm uploading the notebooks here for public consumption.  Enjoy!
 
+You can also look at my YouTube channel, at https://www.youtube.com/reuvenlerner .
+
+Enjoy!
+
+Reuven

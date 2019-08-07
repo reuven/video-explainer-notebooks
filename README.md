@@ -13,3 +13,5 @@ You can also look at my YouTube channel, at https://www.youtube.com/reuvenlerner
 Enjoy!
 
 Reuven
+
+PS: You're invited to sign up for my weekly "Better developers" newsletter, in which I write about Python and related topics every week.  As of this writing, I have more than 13,000 subscribers from all around the world.  You can learn more, and join, at https://lerner.co.il/newsletter .
